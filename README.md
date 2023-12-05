@@ -1,4 +1,5 @@
 # Hello-World
 Hello World
 
-The wise man said "just walk this way, to the dawn of the light..."
+Wise man said, "Just walk this way,
+To the dawn of the light..."
